@@ -16,7 +16,7 @@ df.drop_duplicates(inplace=True)
 
 
 
-# this one made the ages strange: 
+# this one makes the ages strange: 
 # dfnew = df['Age'] = (df['Age'] - df['Age'].min()) / (df['Age'].max() - df['Age'].min())
 
 #############################################################################################
