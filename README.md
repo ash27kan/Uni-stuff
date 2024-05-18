@@ -1,2 +1,2 @@
 # Uni-stuff
-These are the codes that I have written in university and somehow you like them.
+These are the codes that I have written in university and you might like them.
